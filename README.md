@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Learning management system**
 
-- 💬 Ask me about **Node.js, Express.js, React, JavaScript, MongoDB, TypeScript**
+- 💬 Ask me about **Node.js, Express.js, React, JavaScript, MongoDB, TypeScript,Next.js**
 
 - 📫 How to reach me **amith143.km143@gmail.com**
 
