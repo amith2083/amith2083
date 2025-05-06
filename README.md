@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on **full stack e-commerce application**
+- 🔭 I’m currently working on **Learning management system**
 
 - 💬 Ask me about **Node.js, Express.js, React, JavaScript, MongoDB, TypeScript**
 
